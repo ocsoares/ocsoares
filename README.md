@@ -11,7 +11,7 @@
 
 ## Olá, eu me chamo Cauã e esse é meu GitHub 🖐️
 
-### Tenho 19 anos, moro em Ribeirão Preto/SP e sou um apaixonado por futebol e tecnologia. Atualmente estudo Engenharia de Software na UNAERP e meu objetivo é me tornar um excelente programador ✏️💻
+#### Tenho 19 anos, moro em Ribeirão Preto/SP e sou um apaixonado por futebol e tecnologia. Atualmente estudo Engenharia de Software na UNAERP e meu objetivo é me tornar um excelente programador ✏️💻
 
 #
 
