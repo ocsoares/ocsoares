@@ -1,10 +1,10 @@
 # **Cauã Soares**
 
 <div>
-<a href = "https://www.linkedin.com/in/cau%C3%A3-soares-de-ara%C3%BAjo-335927245/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="43" height="50" />
+<a href = "https://www.linkedin.com/in/cau%C3%A3-soares-de-ara%C3%BAjo-335927245/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="43" height="50" target/>
 &ensp;
-<a href = "mailto:casoares016@gmail.com">
+<a href = "mailto:casoares016@gmail.com" target="_blank">
 <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="50" height="50" target="_blank"></a>
 </div>
 
