@@ -1,7 +1,7 @@
 # **Cauã Soares**
 
 <div>
-<a href = "https://www.linkedin.com/in/cau%C3%A3-soares-de-ara%C3%BAjo-335927245/" target="_blank">
+<a href = "https://www.linkedin.com/in/ocauasoares/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="43" height="50"/>
 &ensp;
 <a href = "mailto:casoares016@gmail.com" target="_blank">
