@@ -27,4 +27,4 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ocsoares&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ocsoares&layout=compact&theme=tokyonight)](https://github.com/ocsoares/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ocsoares&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ocsoares&layout=compact&theme=tokyonight)
