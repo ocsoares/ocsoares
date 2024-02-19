@@ -2,7 +2,7 @@
 
 <div>
 <a href = "https://www.linkedin.com/in/ocauasoares/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="43" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="43" height="50"/></a>
 &ensp;
 <a href = "mailto:casoares016@gmail.com" target="_blank">
 <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="50" height="50"></a>
