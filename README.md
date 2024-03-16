@@ -10,7 +10,7 @@
 
 ## Olá, eu me chamo Cauã e esse é meu GitHub 🖐️
 
-#### Tenho 20 anos, moro em Ribeirão Preto/SP e sou um apaixonado por futebol e tecnologia. Atualmente estudo Análise de Sistemas na UNIP e meu objetivo é me tornar um excelente programador ✏️💻
+#### Tenho 21 anos, moro em Ribeirão Preto/SP e sou um apaixonado por futebol e tecnologia. Atualmente estudo Análise de Sistemas na UNIP e meu objetivo é me tornar um excelente programador ✏️💻
 
 #
 
